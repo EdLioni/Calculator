@@ -1,0 +1,128 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: #adf2f7
+
+}
+
+.backgroundCalculator{
+
+    margin-top: 2%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    background-color: darkgray;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    border-radius: 15px;
+
+}
+
+.divCalculator {
+
+    
+
+}
+
+.numbersDiv{
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: right;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    background-color: white;
+
+}
+
+#activeNum{
+
+    font-size: 60px;
+    
+}
+
+.savedNumDiv{
+
+    height: 40px;
+
+}
+
+#savedNum{
+
+    font-size: 40px;
+
+}
+
+button{
+
+    font-size: 25px;
+    
+}
+
+.mainButtons{
+
+    background-color: #C3C3C3;
+
+}
+
+.numButtons{
+
+    background-color: #EFEFEF;
+
+}
+
+.opButtons{
+
+    background-color: #FF7F27;
+
+}
+
+.divCalculator{
+
+    width: 400px;
+
+}
+.mainButtonsDiv{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+#main{
+
+    
+}
+
+.mainButtons{
+
+    width: 200px;
+    height: 100px;
+
+}
+
+.numkeyboardDiv{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+  .numButtons {
+
+    width: 100px;
+    height: 100px;
+
+  }
+
+  .opButtons{
+
+    width: 100px;
+    height: 100px;
+
+  }
